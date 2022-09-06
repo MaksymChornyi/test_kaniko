@@ -1,0 +1,15 @@
+{
+    "renderingHosts": {
+        "xmcloudpreview": {
+            "path": "./src/rendering",
+            "nodeVersion": "14.15.3",
+            "enabled": true
+        },
+        "xmcloudpreviewsxa": {
+            "path": "./src/sxastarter",
+            "nodeVersion": "16.15.1",
+            "enabled": true,
+            "type": "sxa"
+        }
+    }
+}
